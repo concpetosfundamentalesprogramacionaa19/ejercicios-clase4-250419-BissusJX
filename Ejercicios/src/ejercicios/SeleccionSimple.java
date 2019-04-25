@@ -5,7 +5,7 @@
  */
 package ejercicios;
 
-import paquete2.*;
+import paquetedos.Operacion;
 import java.util.Scanner;
 
 /**

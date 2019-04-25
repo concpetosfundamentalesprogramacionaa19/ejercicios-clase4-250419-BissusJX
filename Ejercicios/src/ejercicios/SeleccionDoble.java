@@ -6,7 +6,7 @@
 package ejercicios;
 
 import java.util.Scanner;
-import paquete2.Operacion;
+import paquetedos.Operacion;
 
 /**
  *
@@ -17,7 +17,6 @@ public class SeleccionDoble {
     public static void main(String[] args) {
      
         String miMensaje = Operacion.mensaje;
-     
         String miMensaje2 = Operacion.mensaje2;
         int calificacion;
         Scanner entrada = new Scanner(System.in);
