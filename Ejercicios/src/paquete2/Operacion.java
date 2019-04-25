@@ -10,6 +10,8 @@ package paquete2;
  * @author Salas
  */
 public class Operacion {
+    //importar mesajes desde otro paquete
     public static String mensaje = ("Usted esta aprobado con");
+    public static String mensaje2 = ("Usted esta reprobado con");
    }
 
